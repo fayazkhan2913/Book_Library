@@ -1,2 +1,2 @@
 # Book_Library
-This Project displays the output as well as the code of the output.
+This Project shows books of Engineering branches along with the code as output.
